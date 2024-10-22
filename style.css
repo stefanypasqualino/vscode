@@ -1,0 +1,15 @@
+h1 {color: rgb(107, 0, 107);}
+h1{border:dotted 5px rgb(255, 255, 255)}
+body {background-color: rgb(197, 121, 197);}
+h1 {text-align: center;}
+#uvas {width: 25%;}
+#va {width: 25%;}
+#uv {width: 25%;}
+#uvas {margin-left: 10%;}
+#va {margin-left: 8%;}
+h1 {font-size: 300%;}
+#uvas {border: solid 7px rgb(113, 0, 136);}
+#va {border: solid 7px rgb(100, 0, 100)}
+#uv {border: solid 7px rgb(127, 3, 131)}
+footer {margin-right: 50%;
+background-color: rgb(90, 0, 90);}
